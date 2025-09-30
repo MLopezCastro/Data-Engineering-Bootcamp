@@ -1,0 +1,37 @@
+# --- Entornos virtuales ---
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+
+# --- Python cache/compilados ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Notebooks / tmp ---
+.ipynb_checkpoints/
+*.tmp
+*.log
+
+# --- Herramientas comunes ---
+.mypy_cache/
+.pytest_cache/
+.coverage
+dist/
+build/
+*.egg-info/
+
+# --- VS Code / IDEs ---
+.vscode/
+.idea/
+
+# --- SO (Windows/macOS) ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- (opcional) datos generados ---
+outputs/
