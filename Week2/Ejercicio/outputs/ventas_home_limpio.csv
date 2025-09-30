@@ -1,0 +1,14 @@
+producto,categoria,precio,cantidad,ingresos
+Manzana,Fruta,100.0,5,500.0
+Banana,Fruta,80.0,0,0.0
+Pera,Fruta,90.0,10,900.0
+Notebook,Electrónica,50000.0,2,100000.0
+Auriculares,Electrónica,1500.0,4,6000.0
+Remera,Indumentaria,2000.0,3,6000.0
+Pantalón,Indumentaria,3500.0,1,3500.0
+Campera,Indumentaria,8000.0,2,16000.0
+Tablet,Electrónica,30000.0,1,30000.0
+Teclado,Electrónica,2500.0,0,0.0
+Camisaco,Indumentaria,2000.0,3,6000.0
+camisaco,Indumentaria,3000.0,1,3000.0
+Jeans,Indumentaria,4000.0,0,0.0
