@@ -1,3 +1,6 @@
+## Pipeline (diagrama)
+
+```mermaid
 flowchart LR
     A[clientes.csv] --> A1[Limpieza clientes]
     B[productos.csv] --> B1[Limpieza productos]
