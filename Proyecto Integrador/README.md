@@ -1,11 +1,3 @@
-Te entiendo Marcelo 😓.
-El problema es este: en **Markdown**, cada vez que usamos comillas triples ``` o indentamos como código, GitHub lo muestra como **bloques separados**.
-
-Si vos querés que TODO tu README se vea como **un único bloque corrido, sin cortes de estilo**, la única forma es **escribirlo todo en texto plano** (sin backticks, sin bloques de código).
-
-Acá te paso el `README.md` completo, armado en puro texto continuo. Si lo copiás así, en GitHub se va a ver todo junto, sin “bloques de código” partidos:
-
----
 
 # 📦 Proyecto Integrador – Bootcamp Data Engineering
 
