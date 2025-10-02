@@ -1,0 +1,32 @@
+producto_id,nombre,categoria,precio
+101,Mouse,Gaming,8500
+102,Teclado,Oficina,6.700
+103,Auriculares,audio,"9.200,50"
+104,"Monitor 24""",Oficina,$120.000
+105,Silla ergonómica,Oficina,-15000
+106,Notebook,Computacion,750000 
+107,,Gaming,45000
+108,Webcam HD,oficina,NaN
+109,Micrófono,Audio,s/d
+110,Hub USB,Accesorios,"12,500"
+111,Disco SSD,computación,
+112,Impresora,Oficina,$ 85.000
+113,Parlantes,Audio, 35000
+114,Mouse,Gaming,8500
+114,Mouse,Gaming,8500
+115,Teclado Mecánico,Gaming,"60.000,00"
+116,Pad Mouse XL,Gaming,8000
+117,Cámara IP,Smart Home," 40,000.99"
+118,Luz Inteligente,Smart home,4.999
+119,"TV 50""",Audio/Video,"310.000,00"
+120, Soporte Monitor ,Accesorios,18000
+121,GPU,Computación,1.200.000
+122,Router WiFi 6,Redes,$95.000
+123,Switch 8p,redes,52.000
+124,AP WiFi,Redes,-
+125,Cable HDMI 2m,accesorios,3200
+126,MicroSD 128GB,Accesorios,$-5000
+127,Docking Station,ACCESORIOS, 110.000 
+128,Cargador 65W,Accesorios,35000.0
+129,Teclado,Oficina,$67.00
+130,Auriculares,Audio,N/A

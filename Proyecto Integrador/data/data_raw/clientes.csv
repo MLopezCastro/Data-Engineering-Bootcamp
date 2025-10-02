@@ -1,0 +1,32 @@
+cliente_id,nombre,email,ciudad,fecha_alta
+1,Ana,ana@gmail.com,CABA,2021-04-05
+2,Bruno,bruno@hotmail.com,Córdoba,2021/06/12
+3, Camila ,camila[at]yahoo.com,Salta,20-03-2022
+4,DANIEL,daniel.gmail.com,caba,2021-13-05
+5,elena,  ,Mendoza,2020-02-29
+6,Fabián,fabian@gmail,Capital Federal,2021-09-31
+7,Gabriela,gabriela@GMAIL.COM,ROSARIO,2020/7/5
+8,Héctor,hector@gmail.com,Córdoba ,2021-06-12 
+9,Iván,ivan@mailinator.com,CABA,2021-06-12T10:00:00Z
+10,Julia,julia@@hotmail.com,Salta,20210405
+11,Karina,,CABA,
+12,Lautaro,"lautaro@gmail,com",Cordoba,2021-04-31
+13,Martín,martin@gmail.com,Córdoba,2021-06-12
+13,Martín,martin@gmail.com,Córdoba,2021-06-12
+14,Nora,nora at gmail dot com,CABA,05/04/2021
+15,Oscar,oscar@gmail.com,caba,2021-4-5
+16,Pamela,pamela+promo@gmail.com,Córdoba,2021-06-12
+17,Quintín,quintin@gmail.com,Córdoba,2021-06-12
+18,Raúl,raul@gmail.com,Rosario,2021-06-12
+19,Sofía,sofiagmail.com,CABA,2021-06-12
+20,Tomás,tomás@example.com,Córdoba,2021-06-12
+21,Ulises,ulises@example.com,CABA,2021-06-12
+22,Valeria,valeria@example.com,Córdoba,2021-06-12
+23,Walter,walter@example.com,Mendoza,2021-06-12
+24,Ximena,ximena@example.com,CABA,2021-06-12
+25,Yésica,yesica@example.com,CABA,2021-06-12
+26,Zoe,zoe@example.com,Córdoba,2021-06-12
+27,Álvaro,alvaro@example.com,Córdoba,2021-06-12
+28,Bárbara,barbara@example.com,CABA,2021-06-12
+29,Claudio,claudio@example.com,Rosario,2021-06-12
+30,Diego,diego@example.com,Capital federal,2021-06-12
