@@ -15,18 +15,17 @@ Ubicación: data/data_raw/
 
 ## 🔄 Pipeline (diagrama simplificado)
 
-[clientes.csv] → Limpieza clientes  
-[productos.csv] → Limpieza productos  
-[ventas.csv] → Limpieza ventas  
-↓  
-JOIN ventas + productos + clientes  
-↓  
-Validaciones de datos  
-↓  
-Export CSV o Parquet  
-↓  
-Automatizacion - Semana 5
-
+```mermaid
+flowchart TB
+    A[clientes.csv] --> A1[Limpieza clientes]
+    B[productos.csv] --> B1[Limpieza productos]
+    C[ventas.csv] --> C1[Limpieza ventas]
+    A1 --> J[JOIN ventas + productos + clientes]
+    B1 --> J
+    C1 --> J
+    J --> Q[Validaciones de datos]
+    Q --> O[Export CSV o Parquet]
+    O --> AUTO[Automatizacion - Semana 5]
 ---
 
 ## 🔹 Actividad 3 – Supuestos del sistema
