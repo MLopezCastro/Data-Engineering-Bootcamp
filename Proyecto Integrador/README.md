@@ -2,6 +2,7 @@
 # 📦 Proyecto Integrador – Bootcamp Data Engineering
 
 Empresa simulada: VentasOnline SA
+
 Objetivo: construir un pipeline ETL que procese CSV crudos de clientes, productos y ventas, aplique limpieza, JOIN, validaciones y exporte un dataset listo para análisis.
 
 ---
