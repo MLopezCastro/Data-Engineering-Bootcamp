@@ -1,31 +1,501 @@
 producto_id,nombre,categoria,precio
-101,Mouse,Gaming,8500.0
-102,Teclado,Oficina,6.7
-103,Auriculares,Audio,9200.5
-104,"Monitor 24""",Oficina,120.0
-105,Silla ergonómica,Oficina,
-106,Notebook,Computacion,750000.0
-107,nan,Gaming,45000.0
-108,Webcam HD,Oficina,
-109,Micrófono,Audio,
-110,Hub USB,Accesorios,12.5
-111,Disco SSD,Computación,
-112,Impresora,Oficina,85.0
-113,Parlantes,Audio,35000.0
-114,Mouse,Gaming,8500.0
-115,Teclado Mecánico,Gaming,60000.0
-116,Pad Mouse XL,Gaming,8000.0
-117,Cámara IP,Smart Home,40.00099
-118,Luz Inteligente,Smart Home,4.999
-119,"TV 50""",Audio/Video,310000.0
-120,Soporte Monitor,Accesorios,18000.0
-121,GPU,Computación,
-122,Router WiFi 6,Redes,95.0
-123,Switch 8p,Redes,52.0
-124,AP WiFi,Redes,
-125,Cable HDMI 2m,Accesorios,3200.0
-126,MicroSD 128GB,Accesorios,
-127,Docking Station,Accesorios,110.0
-128,Cargador 65W,Accesorios,35000.0
-129,Teclado,Oficina,67.0
-130,Auriculares,Audio,
+101,Prod 0001,Oficina,5410.0
+102,Prod 0002,Smart Home,14160.0
+103,Prod 0003,Audio,66010.0
+104,Prod 0004,Oficina,32660.0
+105,Prod 0005,Gaming,21780.0
+106,Prod 0006,Accesorios,3220.0
+107,Prod 0007,Gaming,99700.0
+108,Prod 0008,Computación,30290.0
+109,Prod 0009,Smart Home,102520.0
+110,Prod 0010,Gaming,175490.0
+111,Prod 0011,Audio,57050.0
+112,Prod 0012,Redes,13530.0
+113,Prod 0013,Accesorios,34760.0
+114,Prod 0014,Redes,7210.0
+115,Prod 0015,Computación,18010.0
+116,Prod 0016,Redes,43510.0
+117,Prod 0017,Gaming,161480.0
+118,Prod 0018,Oficina,110170.0
+119,Prod 0019,Computación,16710.0
+120,Prod 0020,Smart Home,109960.0
+121,Prod 0021,Redes,39580.0
+122,Prod 0022,Oficina,5780.0
+123,Prod 0023,Accesorios,18990.0
+124,Prod 0024,Oficina,75770.0
+125,Prod 0025,Oficina,16730.0
+126,Prod 0026,Video,135000.0
+127,Prod 0027,Redes,8960.0
+128,Prod 0028,Redes,10590.0
+129,Prod 0029,Smart Home,70300.0
+130,Prod 0030,Oficina,34650.0
+131,Prod 0031,Audio,30560.0
+132,Prod 0032,Accesorios,2570.0
+133,Prod 0033,Computación,37290.0
+134,Prod 0034,Accesorios,14200.0
+135,Prod 0035,Gaming,38530.0
+136,Prod 0036,Gaming,200320.0
+137,Prod 0037,Computación,36940.0
+138,Prod 0038,Accesorios,30070.0
+139,Prod 0039,Redes,10710.0
+140,Prod 0040,Video,50520.0
+141,Prod 0041,Video,17950.0
+142,Prod 0042,Audio,10230.0
+143,Prod 0043,Smart Home,82370.0
+144,Prod 0044,Computación,520870.0
+145,Prod 0045,Computación,54880.0
+146,Prod 0046,Audio,27820.0
+147,Prod 0047,Oficina,55220.0
+148,Prod 0048,Oficina,8130.0
+149,Prod 0049,Audio,81570.0
+150,Prod 0050,Computación,146880.0
+151,Prod 0051,Computación,59600.0
+152,Prod 0052,Video,87270.0
+153,Prod 0053,Gaming,140170.0
+154,Prod 0054,Oficina,43640.0
+155,Prod 0055,Smart Home,88850.0
+156,Prod 0056,Redes,7460.0
+157,Prod 0057,Computación,23320.0
+158,Prod 0058,Gaming,306660.0
+159,Prod 0059,Smart Home,181230.0
+160,Prod 0060,Audio,27630.0
+161,Prod 0061,Oficina,79520.0
+162,Prod 0062,Smart Home,114790.0
+163,Prod 0063,Accesorios,2480.0
+164,Prod 0064,Audio,31170.0
+165,Prod 0065,Gaming,111060.0
+166,Prod 0066,Video,10830.0
+167,Prod 0067,Redes,116550.0
+168,Prod 0068,Smart Home,13890.0
+169,Prod 0069,Accesorios,26800.0
+170,Prod 0070,Oficina,6560.0
+171,Prod 0071,Video,282500.0
+172,Prod 0072,Audio,6520.0
+173,Prod 0073,Video,482660.0
+174,Prod 0074,Audio,10970.0
+175,Prod 0075,Computación,688800.0
+176,Prod 0076,Accesorios,15590.0
+177,Prod 0077,Computación,783870.0
+178,Prod 0078,Redes,24030.0
+179,Prod 0079,Video,16410.0
+180,Prod 0080,Accesorios,1850.0
+181,Prod 0081,Gaming,107730.0
+182,Prod 0082,Accesorios,10360.0
+183,Prod 0083,Gaming,24510.0
+184,Prod 0084,Gaming,38510.0
+185,Prod 0085,Gaming,234200.0
+186,Prod 0086,Oficina,25620.0
+187,Prod 0087,Smart Home,62650.0
+188,Prod 0088,Accesorios,8810.0
+189,Prod 0089,Video,27040.0
+190,Prod 0090,Video,272800.0
+191,Prod 0091,Accesorios,2040.0
+192,Prod 0092,Computación,53140.0
+193,Prod 0093,Computación,85310.0
+194,Prod 0094,Gaming,137420.0
+195,Prod 0095,Oficina,6060.0
+196,Prod 0096,Redes,88090.0
+197,Prod 0097,Oficina,11020.0
+198,Prod 0098,Accesorios,8730.0
+199,Prod 0099,Audio,19930.0
+200,Prod 0100,Smart Home,30390.0
+201,Prod 0101,Oficina,20440.0
+202,Prod 0102,Oficina,5870.0
+203,Prod 0103,Gaming,320280.0
+204,Prod 0104,Accesorios,2590.0
+205,Prod 0105,Video,71770.0
+206,Prod 0106,Computación,531070.0
+207,Prod 0107,Audio,16930.0
+208,Prod 0108,Computación,36550.0
+209,Prod 0109,Video,32150.0
+210,Prod 0110,Video,18850.0
+211,Prod 0111,Smart Home,12870.0
+212,Prod 0112,Gaming,104950.0
+213,Prod 0113,Gaming,170130.0
+214,Prod 0114,Gaming,23090.0
+215,Prod 0115,Video,78370.0
+216,Prod 0116,Audio,4970.0
+217,Prod 0117,Oficina,74820.0
+218,Prod 0118,Oficina,33130.0
+219,Prod 0119,Accesorios,5650.0
+220,Prod 0120,Accesorios,10040.0
+221,Prod 0121,Gaming,117750.0
+222,Prod 0122,Computación,189740.0
+223,Prod 0123,Redes,142450.0
+224,Prod 0124,Accesorios,13520.0
+225,Prod 0125,Redes,11760.0
+226,Prod 0126,Computación,20790.0
+227,Prod 0127,Smart Home,29820.0
+228,Prod 0128,Oficina,5150.0
+229,Prod 0129,Oficina,6310.0
+230,Prod 0130,Accesorios,7900.0
+231,Prod 0131,Audio,139620.0
+232,Prod 0132,Oficina,81760.0
+233,Prod 0133,Redes,13880.0
+234,Prod 0134,Video,303760.0
+235,Prod 0135,Smart Home,51250.0
+236,Prod 0136,Gaming,135270.0
+237,Prod 0137,Smart Home,157440.0
+238,Prod 0138,Oficina,98830.0
+239,Prod 0139,Audio,10950.0
+240,Prod 0140,Oficina,52930.0
+241,Prod 0141,Audio,11280.0
+242,Prod 0142,Accesorios,15830.0
+243,Prod 0143,Accesorios,14340.0
+244,Prod 0144,Smart Home,35300.0
+245,Prod 0145,Smart Home,143510.0
+246,Prod 0146,Gaming,26050.0
+247,Prod 0147,Computación,390690.0
+248,Prod 0148,Gaming,20200.0
+249,Prod 0149,Audio,45220.0
+250,Prod 0150,Smart Home,10570.0
+251,Prod 0151,Video,95710.0
+252,Prod 0152,Computación,126540.0
+253,Prod 0153,Oficina,6350.0
+254,Prod 0154,Audio,31920.0
+255,Prod 0155,Redes,40320.0
+256,Prod 0156,Audio,20540.0
+257,Prod 0157,Gaming,48330.0
+258,Prod 0158,Gaming,262080.0
+259,Prod 0159,Accesorios,14080.0
+260,Prod 0160,Oficina,15390.0
+261,Prod 0161,Computación,716760.0
+262,Prod 0162,Audio,135690.0
+263,Prod 0163,Accesorios,25640.0
+264,Prod 0164,Audio,114610.0
+265,Prod 0165,Gaming,33420.0
+266,Prod 0166,Redes,82530.0
+267,Prod 0167,Computación,348650.0
+268,Prod 0168,Accesorios,3600.0
+269,Prod 0169,Oficina,16860.0
+270,Prod 0170,Gaming,233500.0
+271,Prod 0171,Accesorios,2890.0
+272,Prod 0172,Video,41850.0
+273,Prod 0173,Accesorios,3120.0
+274,Prod 0174,Accesorios,5550.0
+275,Prod 0175,Smart Home,124300.0
+276,Prod 0176,Smart Home,20550.0
+277,Prod 0177,Computación,208240.0
+278,Prod 0178,Redes,144780.0
+279,Prod 0179,Oficina,81180.0
+280,Prod 0180,Smart Home,11220.0
+281,Prod 0181,Smart Home,6860.0
+282,Prod 0182,Computación,51250.0
+283,Prod 0183,Redes,23890.0
+284,Prod 0184,Oficina,17010.0
+285,Prod 0185,Accesorios,3460.0
+286,Prod 0186,Computación,12090.0
+287,Prod 0187,Accesorios,4960.0
+288,Prod 0188,Oficina,102000.0
+289,Prod 0189,Redes,46640.0
+290,Prod 0190,Oficina,49250.0
+291,Prod 0191,Smart Home,35520.0
+292,Prod 0192,Computación,47220.0
+293,Prod 0193,Smart Home,41920.0
+294,Prod 0194,Accesorios,5970.0
+295,Prod 0195,Computación,206320.0
+296,Prod 0196,Audio,41650.0
+297,Prod 0197,Smart Home,24920.0
+298,Prod 0198,Gaming,47730.0
+299,Prod 0199,Accesorios,6150.0
+300,Prod 0200,Redes,26460.0
+301,Prod 0201,Video,158990.0
+302,Prod 0202,Video,257860.0
+303,Prod 0203,Audio,49120.0
+304,Prod 0204,Smart Home,36570.0
+305,Prod 0205,Redes,6990.0
+306,Prod 0206,Accesorios,13660.0
+307,Prod 0207,Accesorios,21190.0
+308,Prod 0208,Audio,4390.0
+309,Prod 0209,Accesorios,37940.0
+310,Prod 0210,Oficina,21260.0
+311,Prod 0211,Accesorios,15860.0
+312,Prod 0212,Computación,95690.0
+313,Prod 0213,Accesorios,2440.0
+314,Prod 0214,Gaming,257420.0
+315,Prod 0215,Oficina,59340.0
+316,Prod 0216,Accesorios,2670.0
+317,Prod 0217,Video,12280.0
+318,Prod 0218,Accesorios,30510.0
+319,Prod 0219,Oficina,21330.0
+320,Prod 0220,Video,153830.0
+321,Prod 0221,Redes,150490.0
+322,Prod 0222,Video,122850.0
+323,Prod 0223,Computación,392700.0
+324,Prod 0224,Video,393890.0
+325,Prod 0225,Video,63140.0
+326,Prod 0226,Accesorios,23640.0
+327,Prod 0227,Smart Home,87980.0
+328,Prod 0228,Video,130150.0
+329,Prod 0229,Smart Home,28060.0
+330,Prod 0230,Smart Home,13650.0
+331,Prod 0231,Redes,15720.0
+332,Prod 0232,Oficina,7760.0
+333,Prod 0233,Accesorios,5280.0
+334,Prod 0234,Audio,58870.0
+335,Prod 0235,Oficina,18690.0
+336,Prod 0236,Redes,34950.0
+337,Prod 0237,Computación,15590.0
+338,Prod 0238,Computación,61600.0
+339,Prod 0239,Gaming,232260.0
+340,Prod 0240,Computación,88950.0
+341,Prod 0241,Redes,14580.0
+342,Prod 0242,Computación,432310.0
+343,Prod 0243,Computación,115040.0
+344,Prod 0244,Accesorios,7450.0
+345,Prod 0245,Smart Home,27660.0
+346,Prod 0246,Gaming,60870.0
+347,Prod 0247,Computación,251200.0
+348,Prod 0248,Video,431600.0
+349,Prod 0249,Gaming,268150.0
+350,Prod 0250,Gaming,25430.0
+351,Prod 0251,Computación,21220.0
+352,Prod 0252,Video,21040.0
+353,Prod 0253,Smart Home,22670.0
+354,Prod 0254,Accesorios,6680.0
+355,Prod 0255,Redes,76500.0
+356,Prod 0256,Computación,38610.0
+357,Prod 0257,Computación,34620.0
+358,Prod 0258,Oficina,22290.0
+359,Prod 0259,Gaming,349910.0
+360,Prod 0260,Redes,11170.0
+361,Prod 0261,Oficina,59870.0
+362,Prod 0262,Gaming,173210.0
+363,Prod 0263,Accesorios,2890.0
+364,Prod 0264,Gaming,118410.0
+365,Prod 0265,Accesorios,2270.0
+366,Prod 0266,Oficina,30020.0
+367,Prod 0267,Accesorios,6910.0
+368,Prod 0268,Smart Home,88320.0
+369,Prod 0269,Audio,40150.0
+370,Prod 0270,Oficina,59220.0
+371,Prod 0271,Audio,157380.0
+372,Prod 0272,Oficina,31450.0
+373,Prod 0273,Smart Home,45190.0
+374,Prod 0274,Computación,63480.0
+375,Prod 0275,Accesorios,1930.0
+376,Prod 0276,Accesorios,2100.0
+377,Prod 0277,Smart Home,118320.0
+378,Prod 0278,Oficina,62800.0
+379,Prod 0279,Gaming,54030.0
+380,Prod 0280,Computación,193080.0
+381,Prod 0281,Oficina,24960.0
+382,Prod 0282,Redes,5230.0
+383,Prod 0283,Computación,379350.0
+384,Prod 0284,Oficina,19830.0
+385,Prod 0285,Redes,48770.0
+386,Prod 0286,Video,181010.0
+387,Prod 0287,Computación,25140.0
+388,Prod 0288,Smart Home,52010.0
+389,Prod 0289,Video,67080.0
+390,Prod 0290,Smart Home,18580.0
+391,Prod 0291,Accesorios,22940.0
+392,Prod 0292,Oficina,12130.0
+393,Prod 0293,Video,27140.0
+394,Prod 0294,Video,103100.0
+395,Prod 0295,Computación,49290.0
+396,Prod 0296,Video,325930.0
+397,Prod 0297,Audio,25590.0
+398,Prod 0298,Redes,87220.0
+399,Prod 0299,Redes,13620.0
+400,Prod 0300,Smart Home,42130.0
+401,Prod 0301,Accesorios,1990.0
+402,Prod 0302,Computación,93390.0
+403,Prod 0303,Accesorios,14480.0
+404,Prod 0304,Video,62650.0
+405,Prod 0305,Gaming,26100.0
+406,Prod 0306,Accesorios,5660.0
+407,Prod 0307,Accesorios,4100.0
+408,Prod 0308,Redes,27260.0
+409,Prod 0309,Redes,22970.0
+410,Prod 0310,Redes,17640.0
+411,Prod 0311,Video,30320.0
+412,Prod 0312,Smart Home,13470.0
+413,Prod 0313,Accesorios,4230.0
+414,Prod 0314,Audio,8290.0
+415,Prod 0315,Video,31020.0
+416,Prod 0316,Smart Home,186790.0
+417,Prod 0317,Accesorios,3970.0
+418,Prod 0318,Redes,9510.0
+419,Prod 0319,Gaming,151750.0
+420,Prod 0320,Audio,11360.0
+421,Prod 0321,Gaming,97470.0
+422,Prod 0322,Audio,45350.0
+423,Prod 0323,Video,15220.0
+424,Prod 0324,Gaming,103420.0
+425,Prod 0325,Video,70990.0
+426,Prod 0326,Redes,9680.0
+427,Prod 0327,Gaming,41200.0
+428,Prod 0328,Video,15950.0
+429,Prod 0329,Oficina,17870.0
+430,Prod 0330,Oficina,31290.0
+431,Prod 0331,Gaming,30880.0
+432,Prod 0332,Smart Home,8090.0
+433,Prod 0333,Accesorios,2210.0
+434,Prod 0334,Computación,153130.0
+435,Prod 0335,Accesorios,19150.0
+436,Prod 0336,Computación,79590.0
+437,Prod 0337,Video,33790.0
+438,Prod 0338,Computación,43270.0
+439,Prod 0339,Gaming,114500.0
+440,Prod 0340,Oficina,101590.0
+441,Prod 0341,Accesorios,11700.0
+442,Prod 0342,Smart Home,60800.0
+443,Prod 0343,Audio,9970.0
+444,Prod 0344,Oficina,8220.0
+445,Prod 0345,Computación,79590.0
+446,Prod 0346,Video,32950.0
+447,Prod 0347,Accesorios,3860.0
+448,Prod 0348,Smart Home,70590.0
+449,Prod 0349,Video,13380.0
+450,Prod 0350,Accesorios,31160.0
+451,Prod 0351,Accesorios,6060.0
+452,Prod 0352,Accesorios,12580.0
+453,Prod 0353,Smart Home,108900.0
+454,Prod 0354,Oficina,6040.0
+455,Prod 0355,Smart Home,48340.0
+456,Prod 0356,Smart Home,27990.0
+457,Prod 0357,Video,167720.0
+458,Prod 0358,Computación,628830.0
+459,Prod 0359,Video,60030.0
+460,Prod 0360,Gaming,255040.0
+461,Prod 0361,Redes,43500.0
+462,Prod 0362,Gaming,25970.0
+463,Prod 0363,Gaming,349570.0
+464,Prod 0364,Smart Home,45260.0
+465,Prod 0365,Audio,23980.0
+466,Prod 0366,Video,425520.0
+467,Prod 0367,Audio,177920.0
+468,Prod 0368,Computación,172570.0
+469,Prod 0369,Video,528600.0
+470,Prod 0370,Video,41560.0
+471,Prod 0371,Redes,15800.0
+472,Prod 0372,Oficina,76350.0
+473,Prod 0373,Redes,21860.0
+474,Prod 0374,Video,32550.0
+475,Prod 0375,Computación,365640.0
+476,Prod 0376,Gaming,73520.0
+477,Prod 0377,Redes,12350.0
+478,Prod 0378,Oficina,109150.0
+479,Prod 0379,Computación,453630.0
+480,Prod 0380,Gaming,131380.0
+481,Prod 0381,Video,54300.0
+482,Prod 0382,Accesorios,8230.0
+483,Prod 0383,Video,129440.0
+484,Prod 0384,Gaming,35810.0
+485,Prod 0385,Audio,136680.0
+486,Prod 0386,Video,368370.0
+487,Prod 0387,Video,16440.0
+488,Prod 0388,Accesorios,15420.0
+489,Prod 0389,Smart Home,41400.0
+490,Prod 0390,Computación,17750.0
+491,Prod 0391,Oficina,21670.0
+492,Prod 0392,Oficina,39170.0
+493,Prod 0393,Audio,26670.0
+494,Prod 0394,Smart Home,35740.0
+495,Prod 0395,Smart Home,25760.0
+496,Prod 0396,Video,553380.0
+497,Prod 0397,Accesorios,6720.0
+498,Prod 0398,Audio,17230.0
+499,Prod 0399,Audio,107270.0
+500,Prod 0400,Smart Home,90120.0
+501,Prod 0401,Computación,50010.0
+502,Prod 0402,Smart Home,106600.0
+503,Prod 0403,Smart Home,76530.0
+504,Prod 0404,Video,345590.0
+505,Prod 0405,Video,90710.0
+506,Prod 0406,Redes,16460.0
+507,Prod 0407,Computación,81220.0
+508,Prod 0408,Redes,112810.0
+509,Prod 0409,Accesorios,9810.0
+510,Prod 0410,Accesorios,24930.0
+511,Prod 0411,Computación,14410.0
+512,Prod 0412,Video,179470.0
+513,Prod 0413,Computación,60720.0
+514,Prod 0414,Audio,26360.0
+515,Prod 0415,Gaming,28710.0
+516,Prod 0416,Redes,112850.0
+517,Prod 0417,Video,15040.0
+518,Prod 0418,Video,10650.0
+519,Prod 0419,Audio,19050.0
+520,Prod 0420,Audio,5320.0
+521,Prod 0421,Smart Home,19670.0
+522,Prod 0422,Computación,183830.0
+523,Prod 0423,Redes,106040.0
+524,Prod 0424,Computación,659850.0
+525,Prod 0425,Video,355820.0
+526,Prod 0426,Gaming,117100.0
+527,Prod 0427,Accesorios,11920.0
+528,Prod 0428,Smart Home,198200.0
+529,Prod 0429,Oficina,19860.0
+530,Prod 0430,Oficina,56030.0
+531,Prod 0431,Oficina,20480.0
+532,Prod 0432,Smart Home,142550.0
+533,Prod 0433,Gaming,50610.0
+534,Prod 0434,Gaming,46310.0
+535,Prod 0435,Redes,23400.0
+536,Prod 0436,Accesorios,8580.0
+537,Prod 0437,Audio,7640.0
+538,Prod 0438,Oficina,34690.0
+539,Prod 0439,Computación,161990.0
+540,Prod 0440,Accesorios,7690.0
+541,Prod 0441,Audio,9680.0
+542,Prod 0442,Smart Home,30060.0
+543,Prod 0443,Gaming,262060.0
+544,Prod 0444,Video,400390.0
+545,Prod 0445,Audio,5300.0
+546,Prod 0446,Redes,172210.0
+547,Prod 0447,Smart Home,56390.0
+548,Prod 0448,Computación,217900.0
+549,Prod 0449,Video,318480.0
+550,Prod 0450,Accesorios,39920.0
+551,Prod 0451,Video,15480.0
+552,Prod 0452,Computación,132530.0
+553,Prod 0453,Smart Home,194940.0
+554,Prod 0454,Smart Home,6480.0
+555,Prod 0455,Computación,38000.0
+556,Prod 0456,Gaming,271000.0
+557,Prod 0457,Video,302630.0
+558,Prod 0458,Smart Home,91100.0
+559,Prod 0459,Accesorios,11010.0
+560,Prod 0460,Redes,10960.0
+561,Prod 0461,Accesorios,11520.0
+562,Prod 0462,Audio,43720.0
+563,Prod 0463,Gaming,48420.0
+564,Prod 0464,Video,11460.0
+565,Prod 0465,Redes,68980.0
+566,Prod 0466,Oficina,90040.0
+567,Prod 0467,Redes,72820.0
+568,Prod 0468,Audio,8590.0
+569,Prod 0469,Redes,33510.0
+570,Prod 0470,Smart Home,110370.0
+571,Prod 0471,Smart Home,147960.0
+572,Prod 0472,Video,525000.0
+573,Prod 0473,Smart Home,82240.0
+574,Prod 0474,Redes,89250.0
+575,Prod 0475,Video,515430.0
+576,Prod 0476,Audio,70600.0
+577,Prod 0477,Accesorios,25270.0
+578,Prod 0478,Computación,697260.0
+579,Prod 0479,Redes,6910.0
+580,Prod 0480,Computación,12720.0
+581,Prod 0481,Oficina,21220.0
+582,Prod 0482,Smart Home,46600.0
+583,Prod 0483,Redes,7370.0
+584,Prod 0484,Accesorios,7050.0
+585,Prod 0485,Redes,132860.0
+586,Prod 0486,Accesorios,12580.0
+587,Prod 0487,Video,414030.0
+588,Prod 0488,Smart Home,58460.0
+589,Prod 0489,Oficina,7800.0
+590,Prod 0490,Gaming,47790.0
+591,Prod 0491,Video,16090.0
+592,Prod 0492,Accesorios,27620.0
+593,Prod 0493,Audio,17560.0
+594,Prod 0494,Redes,55260.0
+595,Prod 0495,Computación,141400.0
+596,Prod 0496,Audio,116370.0
+597,Prod 0497,Oficina,70740.0
+598,Prod 0498,Computación,619340.0
+599,Prod 0499,Smart Home,6730.0
+600,Prod 0500,Redes,10890.0
