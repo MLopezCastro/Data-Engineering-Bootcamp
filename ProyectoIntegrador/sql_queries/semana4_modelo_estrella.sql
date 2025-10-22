@@ -43,3 +43,29 @@ SELECT
     ROUND(v.cantidad * p.precio * (1 - v.descuento / 100.0), 2) AS ingreso_total
 FROM 'data/data_clean/ventas_clean.csv' v
 JOIN dim_productos p ON v.producto_id = p.producto_id;
+
+-- ================================
+-- ✅ EXPORTS (archivos de evidencia)
+-- ================================
+COPY dim_clientes  TO 'outputs/duckdb/dim_clientes.csv'  (HEADER, DELIMITER ',');
+COPY dim_productos TO 'outputs/duckdb/dim_productos.csv' (HEADER, DELIMITER ',');
+COPY fact_ventas   TO 'outputs/duckdb/fact_ventas.csv'   (HEADER, DELIMITER ',');
+
+-- ================================
+-- 🔎 VALIDACIONES (opcional)
+-- ================================
+-- ¿todas las ventas tienen cliente en la dimensión?
+SELECT COUNT(*) AS clientes_faltantes
+FROM fact_ventas
+WHERE cliente_id NOT IN (SELECT cliente_id FROM dim_clientes);
+
+-- ¿todas las ventas tienen producto en la dimensión?
+SELECT COUNT(*) AS productos_faltantes
+FROM fact_ventas
+WHERE producto_id NOT IN (SELECT producto_id FROM dim_productos);
+
+-- Conteos rápidos
+SELECT 
+  (SELECT COUNT(*) FROM dim_clientes)   AS filas_dim_clientes,
+  (SELECT COUNT(*) FROM dim_productos)  AS filas_dim_productos,
+  (SELECT COUNT(*) FROM fact_ventas)    AS filas_fact_ventas;
