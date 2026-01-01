@@ -50,6 +50,7 @@ JOIN dim_productos p ON v.producto_id = p.producto_id;
 COPY dim_clientes  TO 'outputs/duckdb/dim_clientes.csv'  (HEADER, DELIMITER ',');
 COPY dim_productos TO 'outputs/duckdb/dim_productos.csv' (HEADER, DELIMITER ',');
 COPY fact_ventas   TO 'outputs/duckdb/fact_ventas.csv'   (HEADER, DELIMITER ',');
+COPY dim_fechas TO 'outputs/duckdb/dim_fechas.csv' (HEADER, DELIMITER ',');
 
 -- ================================
 -- 🔎 VALIDACIONES (opcional)
