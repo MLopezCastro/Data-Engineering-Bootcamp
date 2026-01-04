@@ -1,501 +1,502 @@
 producto_id,nombre,categoria,precio
-101,Oficina Item 0001,Oficina,5410.0
-102,Smart Home Item 0002,Smart Home,14160.0
-103,Audio Item 0003,Audio,66010.0
-104,Oficina Item 0004,Oficina,32660.0
-105,Gaming Item 0005,Gaming,21780.0
-106,Accesorios Item 0006,Accesorios,3220.0
-107,Gaming Item 0007,Gaming,99700.0
-108,Computación Item 0008,Computación,30290.0
-109,Smart Home Item 0009,Smart Home,102520.0
-110,Gaming Item 0010,Gaming,175490.0
-111,Audio Item 0011,Audio,57050.0
-112,Redes Item 0012,Redes,13530.0
-113,Accesorios Item 0013,Accesorios,34760.0
-114,Redes Item 0014,Redes,7210.0
-115,Computación Item 0015,Computación,18010.0
-116,Redes Item 0016,Redes,43510.0
-117,Gaming Item 0017,Gaming,161480.0
-118,Oficina Item 0018,Oficina,110170.0
-119,Computación Item 0019,Computación,16710.0
-120,Smart Home Item 0020,Smart Home,109960.0
-121,Redes Item 0021,Redes,39580.0
-122,Oficina Item 0022,Oficina,5780.0
-123,Accesorios Item 0023,Accesorios,18990.0
-124,Oficina Item 0024,Oficina,75770.0
-125,Oficina Item 0025,Oficina,16730.0
-126,Video Item 0026,Video,135000.0
-127,Redes Item 0027,Redes,8960.0
-128,Redes Item 0028,Redes,10590.0
-129,Smart Home Item 0029,Smart Home,70300.0
-130,Oficina Item 0030,Oficina,34650.0
-131,Audio Item 0031,Audio,30560.0
-132,Accesorios Item 0032,Accesorios,2570.0
-133,Computación Item 0033,Computación,37290.0
-134,Accesorios Item 0034,Accesorios,14200.0
-135,Gaming Item 0035,Gaming,38530.0
-136,Gaming Item 0036,Gaming,200320.0
-137,Computación Item 0037,Computación,36940.0
-138,Accesorios Item 0038,Accesorios,30070.0
-139,Redes Item 0039,Redes,10710.0
-140,Video Item 0040,Video,50520.0
-141,Video Item 0041,Video,17950.0
-142,Audio Item 0042,Audio,10230.0
-143,Smart Home Item 0043,Smart Home,82370.0
-144,Computación Item 0044,Computación,520870.0
-145,Computación Item 0045,Computación,54880.0
-146,Audio Item 0046,Audio,27820.0
-147,Oficina Item 0047,Oficina,55220.0
-148,Oficina Item 0048,Oficina,8130.0
-149,Audio Item 0049,Audio,81570.0
-150,Computación Item 0050,Computación,146880.0
-151,Computación Item 0051,Computación,59600.0
-152,Video Item 0052,Video,87270.0
-153,Gaming Item 0053,Gaming,140170.0
-154,Oficina Item 0054,Oficina,43640.0
-155,Smart Home Item 0055,Smart Home,88850.0
-156,Redes Item 0056,Redes,7460.0
-157,Computación Item 0057,Computación,23320.0
-158,Gaming Item 0058,Gaming,306660.0
-159,Smart Home Item 0059,Smart Home,181230.0
-160,Audio Item 0060,Audio,27630.0
-161,Oficina Item 0061,Oficina,79520.0
-162,Smart Home Item 0062,Smart Home,114790.0
-163,Accesorios Item 0063,Accesorios,2480.0
-164,Audio Item 0064,Audio,31170.0
-165,Gaming Item 0065,Gaming,111060.0
-166,Video Item 0066,Video,10830.0
-167,Redes Item 0067,Redes,116550.0
-168,Smart Home Item 0068,Smart Home,13890.0
-169,Accesorios Item 0069,Accesorios,26800.0
-170,Oficina Item 0070,Oficina,6560.0
-171,Video Item 0071,Video,282500.0
-172,Audio Item 0072,Audio,6520.0
-173,Video Item 0073,Video,482660.0
-174,Audio Item 0074,Audio,10970.0
-175,Computación Item 0075,Computación,688800.0
-176,Accesorios Item 0076,Accesorios,15590.0
-177,Computación Item 0077,Computación,783870.0
-178,Redes Item 0078,Redes,24030.0
-179,Video Item 0079,Video,16410.0
-180,Accesorios Item 0080,Accesorios,1850.0
-181,Gaming Item 0081,Gaming,107730.0
-182,Accesorios Item 0082,Accesorios,10360.0
-183,Gaming Item 0083,Gaming,24510.0
-184,Gaming Item 0084,Gaming,38510.0
-185,Gaming Item 0085,Gaming,234200.0
-186,Oficina Item 0086,Oficina,25620.0
-187,Smart Home Item 0087,Smart Home,62650.0
-188,Accesorios Item 0088,Accesorios,8810.0
-189,Video Item 0089,Video,27040.0
-190,Video Item 0090,Video,272800.0
-191,Accesorios Item 0091,Accesorios,2040.0
-192,Computación Item 0092,Computación,53140.0
-193,Computación Item 0093,Computación,85310.0
-194,Gaming Item 0094,Gaming,137420.0
-195,Oficina Item 0095,Oficina,6060.0
-196,Redes Item 0096,Redes,88090.0
-197,Oficina Item 0097,Oficina,11020.0
-198,Accesorios Item 0098,Accesorios,8730.0
-199,Audio Item 0099,Audio,19930.0
-200,Smart Home Item 0100,Smart Home,30390.0
-201,Oficina Item 0101,Oficina,20440.0
-202,Oficina Item 0102,Oficina,5870.0
-203,Gaming Item 0103,Gaming,320280.0
-204,Accesorios Item 0104,Accesorios,2590.0
-205,Video Item 0105,Video,71770.0
-206,Computación Item 0106,Computación,531070.0
-207,Audio Item 0107,Audio,16930.0
-208,Computación Item 0108,Computación,36550.0
-209,Video Item 0109,Video,32150.0
-210,Video Item 0110,Video,18850.0
-211,Smart Home Item 0111,Smart Home,12870.0
-212,Gaming Item 0112,Gaming,104950.0
-213,Gaming Item 0113,Gaming,170130.0
-214,Gaming Item 0114,Gaming,23090.0
-215,Video Item 0115,Video,78370.0
-216,Audio Item 0116,Audio,4970.0
-217,Oficina Item 0117,Oficina,74820.0
-218,Oficina Item 0118,Oficina,33130.0
-219,Accesorios Item 0119,Accesorios,5650.0
-220,Accesorios Item 0120,Accesorios,10040.0
-221,Gaming Item 0121,Gaming,117750.0
-222,Computación Item 0122,Computación,189740.0
-223,Redes Item 0123,Redes,142450.0
-224,Accesorios Item 0124,Accesorios,13520.0
-225,Redes Item 0125,Redes,11760.0
-226,Computación Item 0126,Computación,20790.0
-227,Smart Home Item 0127,Smart Home,29820.0
-228,Oficina Item 0128,Oficina,5150.0
-229,Oficina Item 0129,Oficina,6310.0
-230,Accesorios Item 0130,Accesorios,7900.0
-231,Audio Item 0131,Audio,139620.0
-232,Oficina Item 0132,Oficina,81760.0
-233,Redes Item 0133,Redes,13880.0
-234,Video Item 0134,Video,303760.0
-235,Smart Home Item 0135,Smart Home,51250.0
-236,Gaming Item 0136,Gaming,135270.0
-237,Smart Home Item 0137,Smart Home,157440.0
-238,Oficina Item 0138,Oficina,98830.0
-239,Audio Item 0139,Audio,10950.0
-240,Oficina Item 0140,Oficina,52930.0
-241,Audio Item 0141,Audio,11280.0
-242,Accesorios Item 0142,Accesorios,15830.0
-243,Accesorios Item 0143,Accesorios,14340.0
-244,Smart Home Item 0144,Smart Home,35300.0
-245,Smart Home Item 0145,Smart Home,143510.0
-246,Gaming Item 0146,Gaming,26050.0
-247,Computación Item 0147,Computación,390690.0
-248,Gaming Item 0148,Gaming,20200.0
-249,Audio Item 0149,Audio,45220.0
-250,Smart Home Item 0150,Smart Home,10570.0
-251,Video Item 0151,Video,95710.0
-252,Computación Item 0152,Computación,126540.0
-253,Oficina Item 0153,Oficina,6350.0
-254,Audio Item 0154,Audio,31920.0
-255,Redes Item 0155,Redes,40320.0
-256,Audio Item 0156,Audio,20540.0
-257,Gaming Item 0157,Gaming,48330.0
-258,Gaming Item 0158,Gaming,262080.0
-259,Accesorios Item 0159,Accesorios,14080.0
-260,Oficina Item 0160,Oficina,15390.0
-261,Computación Item 0161,Computación,716760.0
-262,Audio Item 0162,Audio,135690.0
-263,Accesorios Item 0163,Accesorios,25640.0
-264,Audio Item 0164,Audio,114610.0
-265,Gaming Item 0165,Gaming,33420.0
-266,Redes Item 0166,Redes,82530.0
-267,Computación Item 0167,Computación,348650.0
-268,Accesorios Item 0168,Accesorios,3600.0
-269,Oficina Item 0169,Oficina,16860.0
-270,Gaming Item 0170,Gaming,233500.0
-271,Accesorios Item 0171,Accesorios,2890.0
-272,Video Item 0172,Video,41850.0
-273,Accesorios Item 0173,Accesorios,3120.0
-274,Accesorios Item 0174,Accesorios,5550.0
-275,Smart Home Item 0175,Smart Home,124300.0
-276,Smart Home Item 0176,Smart Home,20550.0
-277,Computación Item 0177,Computación,208240.0
-278,Redes Item 0178,Redes,144780.0
-279,Oficina Item 0179,Oficina,81180.0
-280,Smart Home Item 0180,Smart Home,11220.0
-281,Smart Home Item 0181,Smart Home,6860.0
-282,Computación Item 0182,Computación,51250.0
-283,Redes Item 0183,Redes,23890.0
-284,Oficina Item 0184,Oficina,17010.0
-285,Accesorios Item 0185,Accesorios,3460.0
-286,Computación Item 0186,Computación,12090.0
-287,Accesorios Item 0187,Accesorios,4960.0
-288,Oficina Item 0188,Oficina,102000.0
-289,Redes Item 0189,Redes,46640.0
-290,Oficina Item 0190,Oficina,49250.0
-291,Smart Home Item 0191,Smart Home,35520.0
-292,Computación Item 0192,Computación,47220.0
-293,Smart Home Item 0193,Smart Home,41920.0
-294,Accesorios Item 0194,Accesorios,5970.0
-295,Computación Item 0195,Computación,206320.0
-296,Audio Item 0196,Audio,41650.0
-297,Smart Home Item 0197,Smart Home,24920.0
-298,Gaming Item 0198,Gaming,47730.0
-299,Accesorios Item 0199,Accesorios,6150.0
-300,Redes Item 0200,Redes,26460.0
-301,Video Item 0201,Video,158990.0
-302,Video Item 0202,Video,257860.0
-303,Audio Item 0203,Audio,49120.0
-304,Smart Home Item 0204,Smart Home,36570.0
-305,Redes Item 0205,Redes,6990.0
-306,Accesorios Item 0206,Accesorios,13660.0
-307,Accesorios Item 0207,Accesorios,21190.0
-308,Audio Item 0208,Audio,4390.0
-309,Accesorios Item 0209,Accesorios,37940.0
-310,Oficina Item 0210,Oficina,21260.0
-311,Accesorios Item 0211,Accesorios,15860.0
-312,Computación Item 0212,Computación,95690.0
-313,Accesorios Item 0213,Accesorios,2440.0
-314,Gaming Item 0214,Gaming,257420.0
-315,Oficina Item 0215,Oficina,59340.0
-316,Accesorios Item 0216,Accesorios,2670.0
-317,Video Item 0217,Video,12280.0
-318,Accesorios Item 0218,Accesorios,30510.0
-319,Oficina Item 0219,Oficina,21330.0
-320,Video Item 0220,Video,153830.0
-321,Redes Item 0221,Redes,150490.0
-322,Video Item 0222,Video,122850.0
-323,Computación Item 0223,Computación,392700.0
-324,Video Item 0224,Video,393890.0
-325,Video Item 0225,Video,63140.0
-326,Accesorios Item 0226,Accesorios,23640.0
-327,Smart Home Item 0227,Smart Home,87980.0
-328,Video Item 0228,Video,130150.0
-329,Smart Home Item 0229,Smart Home,28060.0
-330,Smart Home Item 0230,Smart Home,13650.0
-331,Redes Item 0231,Redes,15720.0
-332,Oficina Item 0232,Oficina,7760.0
-333,Accesorios Item 0233,Accesorios,5280.0
-334,Audio Item 0234,Audio,58870.0
-335,Oficina Item 0235,Oficina,18690.0
-336,Redes Item 0236,Redes,34950.0
-337,Computación Item 0237,Computación,15590.0
-338,Computación Item 0238,Computación,61600.0
-339,Gaming Item 0239,Gaming,232260.0
-340,Computación Item 0240,Computación,88950.0
-341,Redes Item 0241,Redes,14580.0
-342,Computación Item 0242,Computación,432310.0
-343,Computación Item 0243,Computación,115040.0
-344,Accesorios Item 0244,Accesorios,7450.0
-345,Smart Home Item 0245,Smart Home,27660.0
-346,Gaming Item 0246,Gaming,60870.0
-347,Computación Item 0247,Computación,251200.0
-348,Video Item 0248,Video,431600.0
-349,Gaming Item 0249,Gaming,268150.0
-350,Gaming Item 0250,Gaming,25430.0
-351,Computación Item 0251,Computación,21220.0
-352,Video Item 0252,Video,21040.0
-353,Smart Home Item 0253,Smart Home,22670.0
-354,Accesorios Item 0254,Accesorios,6680.0
-355,Redes Item 0255,Redes,76500.0
-356,Computación Item 0256,Computación,38610.0
-357,Computación Item 0257,Computación,34620.0
-358,Oficina Item 0258,Oficina,22290.0
-359,Gaming Item 0259,Gaming,349910.0
-360,Redes Item 0260,Redes,11170.0
-361,Oficina Item 0261,Oficina,59870.0
-362,Gaming Item 0262,Gaming,173210.0
-363,Accesorios Item 0263,Accesorios,2890.0
-364,Gaming Item 0264,Gaming,118410.0
-365,Accesorios Item 0265,Accesorios,2270.0
-366,Oficina Item 0266,Oficina,30020.0
-367,Accesorios Item 0267,Accesorios,6910.0
-368,Smart Home Item 0268,Smart Home,88320.0
-369,Audio Item 0269,Audio,40150.0
-370,Oficina Item 0270,Oficina,59220.0
-371,Audio Item 0271,Audio,157380.0
-372,Oficina Item 0272,Oficina,31450.0
-373,Smart Home Item 0273,Smart Home,45190.0
-374,Computación Item 0274,Computación,63480.0
-375,Accesorios Item 0275,Accesorios,1930.0
-376,Accesorios Item 0276,Accesorios,2100.0
-377,Smart Home Item 0277,Smart Home,118320.0
-378,Oficina Item 0278,Oficina,62800.0
-379,Gaming Item 0279,Gaming,54030.0
-380,Computación Item 0280,Computación,193080.0
-381,Oficina Item 0281,Oficina,24960.0
-382,Redes Item 0282,Redes,5230.0
-383,Computación Item 0283,Computación,379350.0
-384,Oficina Item 0284,Oficina,19830.0
-385,Redes Item 0285,Redes,48770.0
-386,Video Item 0286,Video,181010.0
-387,Computación Item 0287,Computación,25140.0
-388,Smart Home Item 0288,Smart Home,52010.0
-389,Video Item 0289,Video,67080.0
-390,Smart Home Item 0290,Smart Home,18580.0
-391,Accesorios Item 0291,Accesorios,22940.0
-392,Oficina Item 0292,Oficina,12130.0
-393,Video Item 0293,Video,27140.0
-394,Video Item 0294,Video,103100.0
-395,Computación Item 0295,Computación,49290.0
-396,Video Item 0296,Video,325930.0
-397,Audio Item 0297,Audio,25590.0
-398,Redes Item 0298,Redes,87220.0
-399,Redes Item 0299,Redes,13620.0
-400,Smart Home Item 0300,Smart Home,42130.0
-401,Accesorios Item 0301,Accesorios,1990.0
-402,Computación Item 0302,Computación,93390.0
-403,Accesorios Item 0303,Accesorios,14480.0
-404,Video Item 0304,Video,62650.0
-405,Gaming Item 0305,Gaming,26100.0
-406,Accesorios Item 0306,Accesorios,5660.0
-407,Accesorios Item 0307,Accesorios,4100.0
-408,Redes Item 0308,Redes,27260.0
-409,Redes Item 0309,Redes,22970.0
-410,Redes Item 0310,Redes,17640.0
-411,Video Item 0311,Video,30320.0
-412,Smart Home Item 0312,Smart Home,13470.0
-413,Accesorios Item 0313,Accesorios,4230.0
-414,Audio Item 0314,Audio,8290.0
-415,Video Item 0315,Video,31020.0
-416,Smart Home Item 0316,Smart Home,186790.0
-417,Accesorios Item 0317,Accesorios,3970.0
-418,Redes Item 0318,Redes,9510.0
-419,Gaming Item 0319,Gaming,151750.0
-420,Audio Item 0320,Audio,11360.0
-421,Gaming Item 0321,Gaming,97470.0
-422,Audio Item 0322,Audio,45350.0
-423,Video Item 0323,Video,15220.0
-424,Gaming Item 0324,Gaming,103420.0
-425,Video Item 0325,Video,70990.0
-426,Redes Item 0326,Redes,9680.0
-427,Gaming Item 0327,Gaming,41200.0
-428,Video Item 0328,Video,15950.0
-429,Oficina Item 0329,Oficina,17870.0
-430,Oficina Item 0330,Oficina,31290.0
-431,Gaming Item 0331,Gaming,30880.0
-432,Smart Home Item 0332,Smart Home,8090.0
-433,Accesorios Item 0333,Accesorios,2210.0
-434,Computación Item 0334,Computación,153130.0
-435,Accesorios Item 0335,Accesorios,19150.0
-436,Computación Item 0336,Computación,79590.0
-437,Video Item 0337,Video,33790.0
-438,Computación Item 0338,Computación,43270.0
-439,Gaming Item 0339,Gaming,114500.0
-440,Oficina Item 0340,Oficina,101590.0
-441,Accesorios Item 0341,Accesorios,11700.0
-442,Smart Home Item 0342,Smart Home,60800.0
-443,Audio Item 0343,Audio,9970.0
-444,Oficina Item 0344,Oficina,8220.0
-445,Computación Item 0345,Computación,79590.0
-446,Video Item 0346,Video,32950.0
-447,Accesorios Item 0347,Accesorios,3860.0
-448,Smart Home Item 0348,Smart Home,70590.0
-449,Video Item 0349,Video,13380.0
-450,Accesorios Item 0350,Accesorios,31160.0
-451,Accesorios Item 0351,Accesorios,6060.0
-452,Accesorios Item 0352,Accesorios,12580.0
-453,Smart Home Item 0353,Smart Home,108900.0
-454,Oficina Item 0354,Oficina,6040.0
-455,Smart Home Item 0355,Smart Home,48340.0
-456,Smart Home Item 0356,Smart Home,27990.0
-457,Video Item 0357,Video,167720.0
-458,Computación Item 0358,Computación,628830.0
-459,Video Item 0359,Video,60030.0
-460,Gaming Item 0360,Gaming,255040.0
-461,Redes Item 0361,Redes,43500.0
-462,Gaming Item 0362,Gaming,25970.0
-463,Gaming Item 0363,Gaming,349570.0
-464,Smart Home Item 0364,Smart Home,45260.0
-465,Audio Item 0365,Audio,23980.0
-466,Video Item 0366,Video,425520.0
-467,Audio Item 0367,Audio,177920.0
-468,Computación Item 0368,Computación,172570.0
-469,Video Item 0369,Video,528600.0
-470,Video Item 0370,Video,41560.0
-471,Redes Item 0371,Redes,15800.0
-472,Oficina Item 0372,Oficina,76350.0
-473,Redes Item 0373,Redes,21860.0
-474,Video Item 0374,Video,32550.0
-475,Computación Item 0375,Computación,365640.0
-476,Gaming Item 0376,Gaming,73520.0
-477,Redes Item 0377,Redes,12350.0
-478,Oficina Item 0378,Oficina,109150.0
-479,Computación Item 0379,Computación,453630.0
-480,Gaming Item 0380,Gaming,131380.0
-481,Video Item 0381,Video,54300.0
-482,Accesorios Item 0382,Accesorios,8230.0
-483,Video Item 0383,Video,129440.0
-484,Gaming Item 0384,Gaming,35810.0
-485,Audio Item 0385,Audio,136680.0
-486,Video Item 0386,Video,368370.0
-487,Video Item 0387,Video,16440.0
-488,Accesorios Item 0388,Accesorios,15420.0
-489,Smart Home Item 0389,Smart Home,41400.0
-490,Computación Item 0390,Computación,17750.0
-491,Oficina Item 0391,Oficina,21670.0
-492,Oficina Item 0392,Oficina,39170.0
-493,Audio Item 0393,Audio,26670.0
-494,Smart Home Item 0394,Smart Home,35740.0
-495,Smart Home Item 0395,Smart Home,25760.0
-496,Video Item 0396,Video,553380.0
-497,Accesorios Item 0397,Accesorios,6720.0
-498,Audio Item 0398,Audio,17230.0
-499,Audio Item 0399,Audio,107270.0
-500,Smart Home Item 0400,Smart Home,90120.0
-501,Computación Item 0401,Computación,50010.0
-502,Smart Home Item 0402,Smart Home,106600.0
-503,Smart Home Item 0403,Smart Home,76530.0
-504,Video Item 0404,Video,345590.0
-505,Video Item 0405,Video,90710.0
-506,Redes Item 0406,Redes,16460.0
-507,Computación Item 0407,Computación,81220.0
-508,Redes Item 0408,Redes,112810.0
-509,Accesorios Item 0409,Accesorios,9810.0
-510,Accesorios Item 0410,Accesorios,24930.0
-511,Computación Item 0411,Computación,14410.0
-512,Video Item 0412,Video,179470.0
-513,Computación Item 0413,Computación,60720.0
-514,Audio Item 0414,Audio,26360.0
-515,Gaming Item 0415,Gaming,28710.0
-516,Redes Item 0416,Redes,112850.0
-517,Video Item 0417,Video,15040.0
-518,Video Item 0418,Video,10650.0
-519,Audio Item 0419,Audio,19050.0
-520,Audio Item 0420,Audio,5320.0
-521,Smart Home Item 0421,Smart Home,19670.0
-522,Computación Item 0422,Computación,183830.0
-523,Redes Item 0423,Redes,106040.0
-524,Computación Item 0424,Computación,659850.0
-525,Video Item 0425,Video,355820.0
-526,Gaming Item 0426,Gaming,117100.0
-527,Accesorios Item 0427,Accesorios,11920.0
-528,Smart Home Item 0428,Smart Home,198200.0
-529,Oficina Item 0429,Oficina,19860.0
-530,Oficina Item 0430,Oficina,56030.0
-531,Oficina Item 0431,Oficina,20480.0
-532,Smart Home Item 0432,Smart Home,142550.0
-533,Gaming Item 0433,Gaming,50610.0
-534,Gaming Item 0434,Gaming,46310.0
-535,Redes Item 0435,Redes,23400.0
-536,Accesorios Item 0436,Accesorios,8580.0
-537,Audio Item 0437,Audio,7640.0
-538,Oficina Item 0438,Oficina,34690.0
-539,Computación Item 0439,Computación,161990.0
-540,Accesorios Item 0440,Accesorios,7690.0
-541,Audio Item 0441,Audio,9680.0
-542,Smart Home Item 0442,Smart Home,30060.0
-543,Gaming Item 0443,Gaming,262060.0
-544,Video Item 0444,Video,400390.0
-545,Audio Item 0445,Audio,5300.0
-546,Redes Item 0446,Redes,172210.0
-547,Smart Home Item 0447,Smart Home,56390.0
-548,Computación Item 0448,Computación,217900.0
-549,Video Item 0449,Video,318480.0
-550,Accesorios Item 0450,Accesorios,39920.0
-551,Video Item 0451,Video,15480.0
-552,Computación Item 0452,Computación,132530.0
-553,Smart Home Item 0453,Smart Home,194940.0
-554,Smart Home Item 0454,Smart Home,6480.0
-555,Computación Item 0455,Computación,38000.0
-556,Gaming Item 0456,Gaming,271000.0
-557,Video Item 0457,Video,302630.0
-558,Smart Home Item 0458,Smart Home,91100.0
-559,Accesorios Item 0459,Accesorios,11010.0
-560,Redes Item 0460,Redes,10960.0
-561,Accesorios Item 0461,Accesorios,11520.0
-562,Audio Item 0462,Audio,43720.0
-563,Gaming Item 0463,Gaming,48420.0
-564,Video Item 0464,Video,11460.0
-565,Redes Item 0465,Redes,68980.0
-566,Oficina Item 0466,Oficina,90040.0
-567,Redes Item 0467,Redes,72820.0
-568,Audio Item 0468,Audio,8590.0
-569,Redes Item 0469,Redes,33510.0
-570,Smart Home Item 0470,Smart Home,110370.0
-571,Smart Home Item 0471,Smart Home,147960.0
-572,Video Item 0472,Video,525000.0
-573,Smart Home Item 0473,Smart Home,82240.0
-574,Redes Item 0474,Redes,89250.0
-575,Video Item 0475,Video,515430.0
-576,Audio Item 0476,Audio,70600.0
-577,Accesorios Item 0477,Accesorios,25270.0
-578,Computación Item 0478,Computación,697260.0
-579,Redes Item 0479,Redes,6910.0
-580,Computación Item 0480,Computación,12720.0
-581,Oficina Item 0481,Oficina,21220.0
-582,Smart Home Item 0482,Smart Home,46600.0
-583,Redes Item 0483,Redes,7370.0
-584,Accesorios Item 0484,Accesorios,7050.0
-585,Redes Item 0485,Redes,132860.0
-586,Accesorios Item 0486,Accesorios,12580.0
-587,Video Item 0487,Video,414030.0
-588,Smart Home Item 0488,Smart Home,58460.0
-589,Oficina Item 0489,Oficina,7800.0
-590,Gaming Item 0490,Gaming,47790.0
-591,Video Item 0491,Video,16090.0
-592,Accesorios Item 0492,Accesorios,27620.0
-593,Audio Item 0493,Audio,17560.0
-594,Redes Item 0494,Redes,55260.0
-595,Computación Item 0495,Computación,141400.0
-596,Audio Item 0496,Audio,116370.0
-597,Oficina Item 0497,Oficina,70740.0
-598,Computación Item 0498,Computación,619340.0
-599,Smart Home Item 0499,Smart Home,6730.0
-600,Redes Item 0500,Redes,10890.0
+101,Oficina Item 0001,Oficina,5410
+102,Smart Home Item 0002,Smart Home,14160
+103,Audio Item 0003,Audio,66010
+104,Oficina Item 0004,Oficina,32660
+105,Gaming Item 0005,Gaming,21780
+106,Accesorios Item 0006,Accesorios,3220
+107,Gaming Item 0007,Gaming,99700
+108,Computación Item 0008,Computación,30290
+109,Smart Home Item 0009,Smart Home,102520
+110,Gaming Item 0010,Gaming,175490
+111,Audio Item 0011,Audio,57050
+112,Redes Item 0012,Redes,13530
+113,Accesorios Item 0013,Accesorios,34760
+114,Redes Item 0014,Redes,7210
+115,Computación Item 0015,Computación,18010
+116,Redes Item 0016,Redes,43510
+117,Gaming Item 0017,Gaming,161480
+118,Oficina Item 0018,Oficina,110170
+119,Computación Item 0019,Computación,16710
+120,Smart Home Item 0020,Smart Home,109960
+121,Redes Item 0021,Redes,39580
+122,Oficina Item 0022,Oficina,5780
+123,Accesorios Item 0023,Accesorios,18990
+124,Oficina Item 0024,Oficina,75770
+125,Oficina Item 0025,Oficina,16730
+126,Video Item 0026,Video,135000
+127,Redes Item 0027,Redes,8960
+128,Redes Item 0028,Redes,10590
+129,Smart Home Item 0029,Smart Home,70300
+130,Oficina Item 0030,Oficina,34650
+131,Audio Item 0031,Audio,30560
+132,Accesorios Item 0032,Accesorios,2570
+133,Computación Item 0033,Computación,37290
+134,Accesorios Item 0034,Accesorios,14200
+135,Gaming Item 0035,Gaming,38530
+136,Gaming Item 0036,Gaming,200320
+137,Computación Item 0037,Computación,36940
+138,Accesorios Item 0038,Accesorios,30070
+139,Redes Item 0039,Redes,10710
+140,Video Item 0040,Video,50520
+141,Video Item 0041,Video,17950
+142,Audio Item 0042,Audio,10230
+143,Smart Home Item 0043,Smart Home,82370
+144,Computación Item 0044,Computación,520870
+145,Computación Item 0045,Computación,54880
+146,Audio Item 0046,Audio,27820
+147,Oficina Item 0047,Oficina,55220
+148,Oficina Item 0048,Oficina,8130
+149,Audio Item 0049,Audio,81570
+150,Computación Item 0050,Computación,146880
+151,Computación Item 0051,Computación,59600
+152,Video Item 0052,Video,87270
+153,Gaming Item 0053,Gaming,140170
+154,Oficina Item 0054,Oficina,43640
+155,Smart Home Item 0055,Smart Home,88850
+156,Redes Item 0056,Redes,7460
+157,Computación Item 0057,Computación,23320
+158,Gaming Item 0058,Gaming,306660
+159,Smart Home Item 0059,Smart Home,181230
+160,Audio Item 0060,Audio,27630
+161,Oficina Item 0061,Oficina,79520
+162,Smart Home Item 0062,Smart Home,114790
+163,Accesorios Item 0063,Accesorios,2480
+164,Audio Item 0064,Audio,31170
+165,Gaming Item 0065,Gaming,111060
+166,Video Item 0066,Video,10830
+167,Redes Item 0067,Redes,116550
+168,Smart Home Item 0068,Smart Home,13890
+169,Accesorios Item 0069,Accesorios,26800
+170,Oficina Item 0070,Oficina,6560
+171,Video Item 0071,Video,282500
+172,Audio Item 0072,Audio,6520
+173,Video Item 0073,Video,482660
+174,Audio Item 0074,Audio,10970
+175,Computación Item 0075,Computación,688800
+176,Accesorios Item 0076,Accesorios,15590
+177,Computación Item 0077,Computación,783870
+178,Redes Item 0078,Redes,24030
+179,Video Item 0079,Video,16410
+180,Accesorios Item 0080,Accesorios,1850
+181,Gaming Item 0081,Gaming,107730
+182,Accesorios Item 0082,Accesorios,10360
+183,Gaming Item 0083,Gaming,24510
+184,Gaming Item 0084,Gaming,38510
+185,Gaming Item 0085,Gaming,234200
+186,Oficina Item 0086,Oficina,25620
+187,Smart Home Item 0087,Smart Home,62650
+188,Accesorios Item 0088,Accesorios,8810
+189,Video Item 0089,Video,27040
+190,Video Item 0090,Video,272800
+191,Accesorios Item 0091,Accesorios,2040
+192,Computación Item 0092,Computación,53140
+193,Computación Item 0093,Computación,85310
+194,Gaming Item 0094,Gaming,137420
+195,Oficina Item 0095,Oficina,6060
+196,Redes Item 0096,Redes,88090
+197,Oficina Item 0097,Oficina,11020
+198,Accesorios Item 0098,Accesorios,8730
+199,Audio Item 0099,Audio,19930
+200,Smart Home Item 0100,Smart Home,30390
+201,Oficina Item 0101,Oficina,20440
+202,Oficina Item 0102,Oficina,5870
+203,Gaming Item 0103,Gaming,320280
+204,Accesorios Item 0104,Accesorios,2590
+205,Video Item 0105,Video,71770
+206,Computación Item 0106,Computación,531070
+207,Audio Item 0107,Audio,16930
+208,Computación Item 0108,Computación,36550
+209,Video Item 0109,Video,32150
+210,Video Item 0110,Video,18850
+211,Smart Home Item 0111,Smart Home,12870
+212,Gaming Item 0112,Gaming,104950
+213,Gaming Item 0113,Gaming,170130
+214,Gaming Item 0114,Gaming,23090
+215,Video Item 0115,Video,78370
+216,Audio Item 0116,Audio,4970
+217,Oficina Item 0117,Oficina,74820
+218,Oficina Item 0118,Oficina,33130
+219,Accesorios Item 0119,Accesorios,5650
+220,Accesorios Item 0120,Accesorios,10040
+221,Gaming Item 0121,Gaming,117750
+222,Computación Item 0122,Computación,189740
+223,Redes Item 0123,Redes,142450
+224,Accesorios Item 0124,Accesorios,13520
+225,Redes Item 0125,Redes,11760
+226,Computación Item 0126,Computación,20790
+227,Smart Home Item 0127,Smart Home,29820
+228,Oficina Item 0128,Oficina,5150
+229,Oficina Item 0129,Oficina,6310
+230,Accesorios Item 0130,Accesorios,7900
+231,Audio Item 0131,Audio,139620
+232,Oficina Item 0132,Oficina,81760
+233,Redes Item 0133,Redes,13880
+234,Video Item 0134,Video,303760
+235,Smart Home Item 0135,Smart Home,51250
+236,Gaming Item 0136,Gaming,135270
+237,Smart Home Item 0137,Smart Home,157440
+238,Oficina Item 0138,Oficina,98830
+239,Audio Item 0139,Audio,10950
+240,Oficina Item 0140,Oficina,52930
+241,Audio Item 0141,Audio,11280
+242,Accesorios Item 0142,Accesorios,15830
+243,Accesorios Item 0143,Accesorios,14340
+244,Smart Home Item 0144,Smart Home,35300
+245,Smart Home Item 0145,Smart Home,143510
+246,Gaming Item 0146,Gaming,26050
+247,Computación Item 0147,Computación,390690
+248,Gaming Item 0148,Gaming,20200
+249,Audio Item 0149,Audio,45220
+250,Smart Home Item 0150,Smart Home,10570
+251,Video Item 0151,Video,95710
+252,Computación Item 0152,Computación,126540
+253,Oficina Item 0153,Oficina,6350
+254,Audio Item 0154,Audio,31920
+255,Redes Item 0155,Redes,40320
+256,Audio Item 0156,Audio,20540
+257,Gaming Item 0157,Gaming,48330
+258,Gaming Item 0158,Gaming,262080
+259,Accesorios Item 0159,Accesorios,14080
+260,Oficina Item 0160,Oficina,15390
+261,Computación Item 0161,Computación,716760
+262,Audio Item 0162,Audio,135690
+263,Accesorios Item 0163,Accesorios,25640
+264,Audio Item 0164,Audio,114610
+265,Gaming Item 0165,Gaming,33420
+266,Redes Item 0166,Redes,82530
+267,Computación Item 0167,Computación,348650
+268,Accesorios Item 0168,Accesorios,3600
+269,Oficina Item 0169,Oficina,16860
+270,Gaming Item 0170,Gaming,233500
+271,Accesorios Item 0171,Accesorios,2890
+272,Video Item 0172,Video,41850
+273,Accesorios Item 0173,Accesorios,3120
+274,Accesorios Item 0174,Accesorios,5550
+275,Smart Home Item 0175,Smart Home,124300
+276,Smart Home Item 0176,Smart Home,20550
+277,Computación Item 0177,Computación,208240
+278,Redes Item 0178,Redes,144780
+279,Oficina Item 0179,Oficina,81180
+280,Smart Home Item 0180,Smart Home,11220
+281,Smart Home Item 0181,Smart Home,6860
+282,Computación Item 0182,Computación,51250
+283,Redes Item 0183,Redes,23890
+284,Oficina Item 0184,Oficina,17010
+285,Accesorios Item 0185,Accesorios,3460
+286,Computación Item 0186,Computación,12090
+287,Accesorios Item 0187,Accesorios,4960
+288,Oficina Item 0188,Oficina,102000
+289,Redes Item 0189,Redes,46640
+290,Oficina Item 0190,Oficina,49250
+291,Smart Home Item 0191,Smart Home,35520
+292,Computación Item 0192,Computación,47220
+293,Smart Home Item 0193,Smart Home,41920
+294,Accesorios Item 0194,Accesorios,5970
+295,Computación Item 0195,Computación,206320
+296,Audio Item 0196,Audio,41650
+297,Smart Home Item 0197,Smart Home,24920
+298,Gaming Item 0198,Gaming,47730
+299,Accesorios Item 0199,Accesorios,6150
+300,Redes Item 0200,Redes,26460
+301,Video Item 0201,Video,158990
+302,Video Item 0202,Video,257860
+303,Audio Item 0203,Audio,49120
+304,Smart Home Item 0204,Smart Home,36570
+305,Redes Item 0205,Redes,6990
+306,Accesorios Item 0206,Accesorios,13660
+307,Accesorios Item 0207,Accesorios,21190
+308,Audio Item 0208,Audio,4390
+309,Accesorios Item 0209,Accesorios,37940
+310,Oficina Item 0210,Oficina,21260
+311,Accesorios Item 0211,Accesorios,15860
+312,Computación Item 0212,Computación,95690
+313,Accesorios Item 0213,Accesorios,2440
+314,Gaming Item 0214,Gaming,257420
+315,Oficina Item 0215,Oficina,59340
+316,Accesorios Item 0216,Accesorios,2670
+317,Video Item 0217,Video,12280
+318,Accesorios Item 0218,Accesorios,30510
+319,Oficina Item 0219,Oficina,21330
+320,Video Item 0220,Video,153830
+321,Redes Item 0221,Redes,150490
+322,Video Item 0222,Video,122850
+323,Computación Item 0223,Computación,392700
+324,Video Item 0224,Video,393890
+325,Video Item 0225,Video,63140
+326,Accesorios Item 0226,Accesorios,23640
+327,Smart Home Item 0227,Smart Home,87980
+328,Video Item 0228,Video,130150
+329,Smart Home Item 0229,Smart Home,28060
+330,Smart Home Item 0230,Smart Home,13650
+331,Redes Item 0231,Redes,15720
+332,Oficina Item 0232,Oficina,7760
+333,Accesorios Item 0233,Accesorios,5280
+334,Audio Item 0234,Audio,58870
+335,Oficina Item 0235,Oficina,18690
+336,Redes Item 0236,Redes,34950
+337,Computación Item 0237,Computación,15590
+338,Computación Item 0238,Computación,61600
+339,Gaming Item 0239,Gaming,232260
+340,Computación Item 0240,Computación,88950
+341,Redes Item 0241,Redes,14580
+342,Computación Item 0242,Computación,432310
+343,Computación Item 0243,Computación,115040
+344,Accesorios Item 0244,Accesorios,7450
+345,Smart Home Item 0245,Smart Home,27660
+346,Gaming Item 0246,Gaming,60870
+347,Computación Item 0247,Computación,251200
+348,Video Item 0248,Video,431600
+349,Gaming Item 0249,Gaming,268150
+350,Gaming Item 0250,Gaming,25430
+351,Computación Item 0251,Computación,21220
+352,Video Item 0252,Video,21040
+353,Smart Home Item 0253,Smart Home,22670
+354,Accesorios Item 0254,Accesorios,6680
+355,Redes Item 0255,Redes,76500
+356,Computación Item 0256,Computación,38610
+357,Computación Item 0257,Computación,34620
+358,Oficina Item 0258,Oficina,22290
+359,Gaming Item 0259,Gaming,349910
+360,Redes Item 0260,Redes,11170
+361,Oficina Item 0261,Oficina,59870
+362,Gaming Item 0262,Gaming,173210
+363,Accesorios Item 0263,Accesorios,2890
+364,Gaming Item 0264,Gaming,118410
+365,Accesorios Item 0265,Accesorios,2270
+366,Oficina Item 0266,Oficina,30020
+367,Accesorios Item 0267,Accesorios,6910
+368,Smart Home Item 0268,Smart Home,88320
+369,Audio Item 0269,Audio,40150
+370,Oficina Item 0270,Oficina,59220
+371,Audio Item 0271,Audio,157380
+372,Oficina Item 0272,Oficina,31450
+373,Smart Home Item 0273,Smart Home,45190
+374,Computación Item 0274,Computación,63480
+375,Accesorios Item 0275,Accesorios,1930
+376,Accesorios Item 0276,Accesorios,2100
+377,Smart Home Item 0277,Smart Home,118320
+378,Oficina Item 0278,Oficina,62800
+379,Gaming Item 0279,Gaming,54030
+380,Computación Item 0280,Computación,193080
+381,Oficina Item 0281,Oficina,24960
+382,Redes Item 0282,Redes,5230
+383,Computación Item 0283,Computación,379350
+384,Oficina Item 0284,Oficina,19830
+385,Redes Item 0285,Redes,48770
+386,Video Item 0286,Video,181010
+387,Computación Item 0287,Computación,25140
+388,Smart Home Item 0288,Smart Home,52010
+389,Video Item 0289,Video,67080
+390,Smart Home Item 0290,Smart Home,18580
+391,Accesorios Item 0291,Accesorios,22940
+392,Oficina Item 0292,Oficina,12130
+393,Video Item 0293,Video,27140
+394,Video Item 0294,Video,103100
+395,Computación Item 0295,Computación,49290
+396,Video Item 0296,Video,325930
+397,Audio Item 0297,Audio,25590
+398,Redes Item 0298,Redes,87220
+399,Redes Item 0299,Redes,13620
+400,Smart Home Item 0300,Smart Home,42130
+401,Accesorios Item 0301,Accesorios,1990
+402,Computación Item 0302,Computación,93390
+403,Accesorios Item 0303,Accesorios,14480
+404,Video Item 0304,Video,62650
+405,Gaming Item 0305,Gaming,26100
+406,Accesorios Item 0306,Accesorios,5660
+407,Accesorios Item 0307,Accesorios,4100
+408,Redes Item 0308,Redes,27260
+409,Redes Item 0309,Redes,22970
+410,Redes Item 0310,Redes,17640
+411,Video Item 0311,Video,30320
+412,Smart Home Item 0312,Smart Home,13470
+413,Accesorios Item 0313,Accesorios,4230
+414,Audio Item 0314,Audio,8290
+415,Video Item 0315,Video,31020
+416,Smart Home Item 0316,Smart Home,186790
+417,Accesorios Item 0317,Accesorios,3970
+418,Redes Item 0318,Redes,9510
+419,Gaming Item 0319,Gaming,151750
+420,Audio Item 0320,Audio,11360
+421,Gaming Item 0321,Gaming,97470
+422,Audio Item 0322,Audio,45350
+423,Video Item 0323,Video,15220
+424,Gaming Item 0324,Gaming,103420
+425,Video Item 0325,Video,70990
+426,Redes Item 0326,Redes,9680
+427,Gaming Item 0327,Gaming,41200
+428,Video Item 0328,Video,15950
+429,Oficina Item 0329,Oficina,17870
+430,Oficina Item 0330,Oficina,31290
+431,Gaming Item 0331,Gaming,30880
+432,Smart Home Item 0332,Smart Home,8090
+433,Accesorios Item 0333,Accesorios,2210
+434,Computación Item 0334,Computación,153130
+435,Accesorios Item 0335,Accesorios,19150
+436,Computación Item 0336,Computación,79590
+437,Video Item 0337,Video,33790
+438,Computación Item 0338,Computación,43270
+439,Gaming Item 0339,Gaming,114500
+440,Oficina Item 0340,Oficina,101590
+441,Accesorios Item 0341,Accesorios,11700
+442,Smart Home Item 0342,Smart Home,60800
+443,Audio Item 0343,Audio,9970
+444,Oficina Item 0344,Oficina,8220
+445,Computación Item 0345,Computación,79590
+446,Video Item 0346,Video,32950
+447,Accesorios Item 0347,Accesorios,3860
+448,Smart Home Item 0348,Smart Home,70590
+449,Video Item 0349,Video,13380
+450,Accesorios Item 0350,Accesorios,31160
+451,Accesorios Item 0351,Accesorios,6060
+452,Accesorios Item 0352,Accesorios,12580
+453,Smart Home Item 0353,Smart Home,108900
+454,Oficina Item 0354,Oficina,6040
+455,Smart Home Item 0355,Smart Home,48340
+456,Smart Home Item 0356,Smart Home,27990
+457,Video Item 0357,Video,167720
+458,Computación Item 0358,Computación,628830
+459,Video Item 0359,Video,60030
+460,Gaming Item 0360,Gaming,255040
+461,Redes Item 0361,Redes,43500
+462,Gaming Item 0362,Gaming,25970
+463,Gaming Item 0363,Gaming,349570
+464,Smart Home Item 0364,Smart Home,45260
+465,Audio Item 0365,Audio,23980
+466,Video Item 0366,Video,425520
+467,Audio Item 0367,Audio,177920
+468,Computación Item 0368,Computación,172570
+469,Video Item 0369,Video,528600
+470,Video Item 0370,Video,41560
+471,Redes Item 0371,Redes,15800
+472,Oficina Item 0372,Oficina,76350
+473,Redes Item 0373,Redes,21860
+474,Video Item 0374,Video,32550
+475,Computación Item 0375,Computación,365640
+476,Gaming Item 0376,Gaming,73520
+477,Redes Item 0377,Redes,12350
+478,Oficina Item 0378,Oficina,109150
+479,Computación Item 0379,Computación,453630
+480,Gaming Item 0380,Gaming,131380
+481,Video Item 0381,Video,54300
+482,Accesorios Item 0382,Accesorios,8230
+483,Video Item 0383,Video,129440
+484,Gaming Item 0384,Gaming,35810
+485,Audio Item 0385,Audio,136680
+486,Video Item 0386,Video,368370
+487,Video Item 0387,Video,16440
+488,Accesorios Item 0388,Accesorios,15420
+489,Smart Home Item 0389,Smart Home,41400
+490,Computación Item 0390,Computación,17750
+491,Oficina Item 0391,Oficina,21670
+492,Oficina Item 0392,Oficina,39170
+493,Audio Item 0393,Audio,26670
+494,Smart Home Item 0394,Smart Home,35740
+495,Smart Home Item 0395,Smart Home,25760
+496,Video Item 0396,Video,553380
+497,Accesorios Item 0397,Accesorios,6720
+498,Audio Item 0398,Audio,17230
+499,Audio Item 0399,Audio,107270
+500,Smart Home Item 0400,Smart Home,90120
+501,Computación Item 0401,Computación,50010
+502,Smart Home Item 0402,Smart Home,106600
+503,Smart Home Item 0403,Smart Home,76530
+504,Video Item 0404,Video,345590
+505,Video Item 0405,Video,90710
+506,Redes Item 0406,Redes,16460
+507,Computación Item 0407,Computación,81220
+508,Redes Item 0408,Redes,112810
+509,Accesorios Item 0409,Accesorios,9810
+510,Accesorios Item 0410,Accesorios,24930
+511,Computación Item 0411,Computación,14410
+512,Video Item 0412,Video,179470
+513,Computación Item 0413,Computación,60720
+514,Audio Item 0414,Audio,26360
+515,Gaming Item 0415,Gaming,28710
+516,Redes Item 0416,Redes,112850
+517,Video Item 0417,Video,15040
+518,Video Item 0418,Video,10650
+519,Audio Item 0419,Audio,19050
+520,Audio Item 0420,Audio,5320
+521,Smart Home Item 0421,Smart Home,19670
+522,Computación Item 0422,Computación,183830
+523,Redes Item 0423,Redes,106040
+524,Computación Item 0424,Computación,659850
+525,Video Item 0425,Video,355820
+526,Gaming Item 0426,Gaming,117100
+527,Accesorios Item 0427,Accesorios,11920
+528,Smart Home Item 0428,Smart Home,198200
+529,Oficina Item 0429,Oficina,19860
+530,Oficina Item 0430,Oficina,56030
+531,Oficina Item 0431,Oficina,20480
+532,Smart Home Item 0432,Smart Home,142550
+533,Gaming Item 0433,Gaming,50610
+534,Gaming Item 0434,Gaming,46310
+535,Redes Item 0435,Redes,23400
+536,Accesorios Item 0436,Accesorios,8580
+537,Audio Item 0437,Audio,7640
+538,Oficina Item 0438,Oficina,34690
+539,Computación Item 0439,Computación,161990
+540,Accesorios Item 0440,Accesorios,7690
+541,Audio Item 0441,Audio,9680
+542,Smart Home Item 0442,Smart Home,30060
+543,Gaming Item 0443,Gaming,262060
+544,Video Item 0444,Video,400390
+545,Audio Item 0445,Audio,5300
+546,Redes Item 0446,Redes,172210
+547,Smart Home Item 0447,Smart Home,56390
+548,Computación Item 0448,Computación,217900
+549,Video Item 0449,Video,318480
+550,Accesorios Item 0450,Accesorios,39920
+551,Video Item 0451,Video,15480
+552,Computación Item 0452,Computación,132530
+553,Smart Home Item 0453,Smart Home,194940
+554,Smart Home Item 0454,Smart Home,6480
+555,Computación Item 0455,Computación,38000
+556,Gaming Item 0456,Gaming,271000
+557,Video Item 0457,Video,302630
+558,Smart Home Item 0458,Smart Home,91100
+559,Accesorios Item 0459,Accesorios,11010
+560,Redes Item 0460,Redes,10960
+561,Accesorios Item 0461,Accesorios,11520
+562,Audio Item 0462,Audio,43720
+563,Gaming Item 0463,Gaming,48420
+564,Video Item 0464,Video,11460
+565,Redes Item 0465,Redes,68980
+566,Oficina Item 0466,Oficina,90040
+567,Redes Item 0467,Redes,72820
+568,Audio Item 0468,Audio,8590
+569,Redes Item 0469,Redes,33510
+570,Smart Home Item 0470,Smart Home,110370
+571,Smart Home Item 0471,Smart Home,147960
+572,Video Item 0472,Video,525000
+573,Smart Home Item 0473,Smart Home,82240
+574,Redes Item 0474,Redes,89250
+575,Video Item 0475,Video,515430
+576,Audio Item 0476,Audio,70600
+577,Accesorios Item 0477,Accesorios,25270
+578,Computación Item 0478,Computación,697260
+579,Redes Item 0479,Redes,6910
+580,Computación Item 0480,Computación,12720
+581,Oficina Item 0481,Oficina,21220
+582,Smart Home Item 0482,Smart Home,46600
+583,Redes Item 0483,Redes,7370
+584,Accesorios Item 0484,Accesorios,7050
+585,Redes Item 0485,Redes,132860
+586,Accesorios Item 0486,Accesorios,12580
+587,Video Item 0487,Video,414030
+588,Smart Home Item 0488,Smart Home,58460
+589,Oficina Item 0489,Oficina,7800
+590,Gaming Item 0490,Gaming,47790
+591,Video Item 0491,Video,16090
+592,Accesorios Item 0492,Accesorios,27620
+593,Audio Item 0493,Audio,17560
+594,Redes Item 0494,Redes,55260
+595,Computación Item 0495,Computación,141400
+596,Audio Item 0496,Audio,116370
+597,Oficina Item 0497,Oficina,70740
+598,Computación Item 0498,Computación,619340
+599,Smart Home Item 0499,Smart Home,6730
+600,Redes Item 0500,Redes,10890
+601,Mouse 100Lalas,Accesorios,25
